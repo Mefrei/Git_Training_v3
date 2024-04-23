@@ -8,3 +8,4 @@ I am capable of solving a the challenges in DevOps.
 I am a Mastery in DevOps.
 
 I have successfully made the SSH Authentication key, Enjoying the learning
+i have to solve a new challenge, have done a Git commit  but it did not merge with GitHub 
